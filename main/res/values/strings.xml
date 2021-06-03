@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Zorion</string>
+    <string name="txtViewUsername">E-mail:</string>
+    <string name="txtViewPassword">Password:</string>
+    <string name="buttonTxt">Log in</string>
+    <string name="empty" />
+    <string name="backgroundDesc">Background</string>
+    <string name="invalidCredentials"><b>Invalid credentials</b></string>
+    <string name="forgot_pin"><u>or reset password</u></string>
+    <string name="register"><u>Register</u></string>
+    <string name="display_name">%1$s</string>
+    <string name="change"><u>Change</u></string>
+    <string name="displaynameProfile">Username:</string>
+    <string name="emailAddressProfile">E-mail:</string>
+    <string name="new_e_mail"><font size="12">New e-mail</font></string>
+    <string name="new_username"><font size="12">New username</font></string>
+    <string name="refresh">Refresh</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="made_by_lukatjee">© - Made by Lukatjee</string>
+    <string name="edit">Edit</string>
+    <string name="log_out">Log out</string>
+    <string name="save">Save</string>
+    <string name="username">Username</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+</resources>
