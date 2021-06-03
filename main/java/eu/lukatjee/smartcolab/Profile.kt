@@ -278,6 +278,8 @@ class Profile : AppCompatActivity(), View.OnClickListener {
 
         }
 
+        progressBar.visibility = View.GONE
+
     }
 
 }

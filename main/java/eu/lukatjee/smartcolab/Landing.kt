@@ -73,6 +73,9 @@ class Landing : AppCompatActivity(), View.OnClickListener {
 
                     } else {
 
+                        progressBarOne.visibility = View.GONE
+                        signInButton.isEnabled = true
+                        signUpButton.isEnabled = true
                         Toast.makeText(this, messageInvalidSaved, Toast.LENGTH_LONG).show()
 
                     }
